@@ -8,7 +8,7 @@
 
 This project explores the **Indian Superstore** dataset using Tableau. It presents retail data through a collection of visualizations that help explore sales, profit, products, customers, and regional performance.
 
-The packaged Tableau workbook includes **30 worksheets**. The checklist below uses the worksheet names saved in the workbook.
+The packaged Tableau workbook includes **28 worksheets**. The checklist below uses the worksheet names saved in the workbook.
 
 ## 🧰 Tools Used
 
@@ -25,9 +25,6 @@ The packaged Tableau workbook includes **30 worksheets**. The checklist below us
 - ✅ Highlighted text table chart
 - ✅ Lollypop chart
 - ✅ Radial map
-- ✅ Sheet 1
-- ✅ Sheet 11
-- ✅ Sheet 30
 - ✅ Tableau table
 - ✅ Traditional Tree map
 - ✅ Tree map
